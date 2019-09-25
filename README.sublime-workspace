@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"columns\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"s",
+				"sub\tTag"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-top"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"ro",
+				"rotateY()\ttransform"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"bg",
+				"bgc\tbackground-color: #${1:fff};"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"Cons",
+				"console_log"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"x",
+				"overflowX\t Style CSS"
+			],
+			[
+				"left",
+				"left\t Style CSS"
+			],
+			[
+				"trans",
+				"transform\t = 'translate(x, y)' Style CSS"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"i",
+				"initial\ttext-anchor"
+			],
+			[
+				"r",
+				"rgba()\tcolor"
+			],
+			[
+				"fon-s",
+				"font-size\tproperty"
+			],
+			[
+				"func",
+				"function_with_name"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"di",
+				"dir\tTag"
+			],
+			[
+				"text-s",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"ru",
+				"run-in\tdisplay"
+			],
+			[
+				"fun",
+				"function_with_name"
+			],
+			[
+				"getElementBy",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"oncl",
+				"onclick\t: EventHandler Window"
+			],
+			[
+				"write",
+				"writeln\t( text_..: DOMString ): void Document"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"Ite",
+				"item\t( index: unsigned long ): File FileList"
+			],
+			[
+				"syt",
+				"style\t Style CSS"
+			],
+			[
+				"con",
+				"align-content\tproperty"
+			],
+			[
+				"f-si",
+				"font-size\tproperty"
+			],
+			[
+				"FO",
+				"font-size\tproperty"
+			],
+			[
+				"getElem",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"clic",
+				"clicksValue"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"va",
+				"valueOf\t(): number Date"
+			],
+			[
+				"N",
+				"Number\t( value: any ): Number Number"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"bacgrou",
+				"background-size\tproperty"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"wri",
+				"writeln\t( text_..: DOMString ): void Document"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"wra",
+				"flex-wrap\tproperty"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"border-bo",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"Col",
+				"color\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"su",
+				"summary\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"marin",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"CO",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"inte",
+				"interface"
+			],
+			[
+				"ext",
+				"extends"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"Te",
+				"TIME\tTag"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"d",
+				"dt\tTag"
+			],
+			[
+				"bacg",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"sap",
+				"samp\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"B",
+				"BLOCKQUOTE\tTag"
+			],
+			[
+				"Bu",
+				"BUTTON\tTag"
+			],
+			[
+				"HEa",
+				"HEAD\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>News-portal</title>\n\n\t<link href=\"https://fonts.googleapis.com/css?family=Titillium+Web&display=swap\" rel=\"stylesheet\"> \n\t<link rel=\"stylesheet\" href=\"style/style.css\">\n</head>\n<body>\n\t<header>\n\t\t<div class=\"topnav main_bgColor\">\n\t\t\t<a href=\"index.html\" class=\"section main_bgColor\" id=\"logotype\">\n\t\t\t\t<p>News <sup>demo</sup></p>\n\t\t\t</a>\n\t\t\t<div class=\"section\">\n\t\t\t\t<p>Main page</p>\n\t\t\t</div>\n\t\t\t<div class=\"section\">\n\t\t\t\t<p>Popular</p>\n\t\t\t</div>\n\t\t\t<div class=\"section\">\n\t\t\t\t<p>For you</p>\n\t\t\t</div>\n\t\t\t<div class=\"section\">\n\t\t\t\t<p>Settings</p>\n\t\t\t</div>\n\t\t</div>\n\t</header>\n\n\n\t<div class=\"content\">\n\t\t<div class=\"newspage main_bgColor\">\n\t\t\t<div class=\"imagesblock\"></div>\n\t\t\tdiv.headin\n\t\t</div>\n\t</div>\n\n\t<footer class=\"main_bgColor\">\n\t\t<div style=\"color:white;margin-top: 25px;\">This site creat to exemple news page</div>\n\t\t<a href=\"https://github.com/StupidGame12312/News-Portal\">GitHub</a>\n\t</footer>\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 982,
+			"file_write_time": 132139063159076413,
+			"settings":
+			{
+				"buffer_size": 994,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style/style.css",
+			"settings":
+			{
+				"buffer_size": 1311,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Php",
+				"Set Syntax: PHP"
+			],
+			[
+				"PAcka",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 243.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Program/MyProdukt/WedDev/News-Portal",
+		"/D/Program/MyProdukt/WedDev/News-Portal/style"
+	],
+	"file_history":
+	[
+		"/D/Program/MyProdukt/WedDev/News-Portal/README.md",
+		"/D/Program/MyProdukt/WedDev/FirstWebApp/scripts/script.js",
+		"/D/Program/MyProdukt/WedDev/FirstWebApp/css/defouldStyle.css",
+		"/D/Program/MyProdukt/WedDev/FirstWebApp/css/style.css",
+		"/D/Program/MyProdukt/WedDev/FirstWebApp/index.html",
+		"/D/Program/MyProdukt/WedDev/StupidGame12312.github.io/css/style.css",
+		"/D/Program/MyProdukt/WedDev/StupidGame12312.github.io/index.html",
+		"/D/Program/MyProdukt/WedDev/FirstWebApp/css/script.js",
+		"/D/Program/MyProdukt/WedDev/FirstWebApp/Index.html",
+		"/D/Program/MyProdukt/WedDev/FirstWebApp/textData.txt",
+		"/C/Users/User/Desktop/test.test",
+		"/D/Program/MyProdukt/unity game/RocketQuest/Assets/StreamingAssets/Languages/Ru.json",
+		"/D/Program/MyProdukt/unity game/RocketQuest/Assets/StreamingAssets/Languages/Eng.json",
+		"/D/Program/MyProdukt/unity game/RQ PostProd/secondSnr/dialogs",
+		"/D/Program/MyProdukt/unity game/RQ PostProd/Dialog_ep2",
+		"/D/Program/MyProdukt/unity game/RQ PostProd/Dialog_ep1",
+		"/D/Program/MyProdukt/unity game/RQ PostProd/Dialog_ep4",
+		"/D/Program/MyProdukt/unity game/RQ PostProd/Dialog_ep3",
+		"/D/Program/MyProdukt/unity game/RQ PostProd/Dialog_ep5",
+		"/D/Program/MyProdukt/unity game/RQ PostProd/Dialog_ep1.json",
+		"/D/Program/MyProdukt/unity game/RocketQuest/Assets/StreamingAssets/Ru.json",
+		"/D/Program/fgmklkbjlO32ojmlfjdvopix;lmvmljsdpoitio349jfgmfkcf.dat",
+		"/D/Program/MyProdukt/unity game/RocketQuest/Assets/SteamingAssets/languages/Ru.json",
+		"/C/Users/User/AppData/Local/Microsoft/Windows/INetCache/IE/8HIRIC3L/wallpaper[1].dat",
+		"/C/Users/User/AppData/Local/Microsoft/Windows/INetCache/IE/8HIRIC3L/history001[2].dat",
+		"/D/Program/MyProdukt/C#-Demo/MiniGames/MiniGames/Program.cs",
+		"/D/Program/MyProdukt/C#-Demo/GameSourse/GameSourse/Game.cs",
+		"/D/Program/MyProdukt/C#-Demo/SnakeGame/SnakeGame/SnakeGame.cs",
+		"/D/Program/MyProdukt/C#-Demo/GameSourse/GameSourse/Matrix.cs",
+		"/C/Users/User/AppData/Local/Temp/Rar$DIa0.122/russian_surnames.json",
+		"/C/Users/User/AppData/Local/Temp/Rar$DIa0.181/russian_names.json",
+		"/C/Users/User/AppData/Local/Microsoft/Windows/INetCache/IE/8HIRIC3L/history001[1].dat",
+		"/D/Program/System/Chromium/MEIPreload/manifest.json",
+		"/D/Program/System/Chromium/icudtl.dat",
+		"/D/Program/MyProdukt/C#-Demo/Comander/Comander/bin/Debug/Comander.pdb",
+		"/D/Program/MyProdukt/FLDEmo/index.html",
+		"/C/Users/User/Desktop/Pusher_StarBattle.bat",
+		"/D/newYearGame.txt",
+		"/D/Program/MyProdukt/unity game/MyStarSystem/Assets/StreamingAssets/save.json",
+		"/C/Users/User/Desktop/batnick.bat",
+		"/C/Users/User/Desktop/test (2).bat",
+		"/C/Users/User/Desktop/test.txt",
+		"/C/Users/User/Desktop/Pusher_StarBattle.batt",
+		"/C/Users/User/Desktop/Pusher_StarBattle",
+		"/G/JavaCheburkNet/src/javacheburknet/JavaCheburkNet.java",
+		"/G/JavaCheburkNet/src/cheburk/indexSite/GenIdentety.java",
+		"/D/Program/MyProdukt/unity game/BattleArena/Assets/StreamingAssets/manual.json",
+		"/G/JavaCheburkNet/build/classes/Main.class",
+		"/G/Resurs/bat/del/1123.bate",
+		"/D/Program/MyProdukt/unity game/Pouple/Assets/StreamingAssets/Languages/Engilch-Localisation-Package.json",
+		"/D/Program/MyProdukt/unity game/Pouple/Assets/sourse/scripts/Eag.cs",
+		"/D/Program/MyProdukt/C#-Demo/TestWF/bin/Debug/transactions/078083923783403.tr",
+		"/D/Program/MyProdukt/C#-Demo/TestWF/bin/Debug/data/key.datagrind",
+		"/D/Program/MyProdukt/C#-Demo/TestWF/bin/Debug/transactions/870124901427070.tr",
+		"/D/Program/MyProdukt/C#-Demo/TestWF/bin/Debug/transactions/439246612150852.tr",
+		"/C/Users/User/Desktop/Диалоги.html",
+		"/C/Users/User/Downloads/privacy_policy.html",
+		"/D/Program/MyProdukt/unity game/Pouple/Assets/StreamingAssets/Languages/Ukraine-Localisation-Package.json",
+		"/D/Program/MyProdukt/unity game/Pouple/Assets/StreamingAssets/Languages/Spanish-Localisation-Package.json",
+		"/D/Program/MyProdukt/unity game/Pouple/Assets/StreamingAssets/Languages/Russian-Localisation-Package.json",
+		"/D/Program/GameP/Kerbal Space Program/unins000.dat",
+		"/C/Users/User/Desktop/index.html",
+		"/D/Program/MyProdukt/GitRep/EncoderAndDecoderCSHARP/Encode/Encode/EncoderDecorer/KeyGenerator.cs",
+		"/D/Program/System/Steam/steamapps/common/Unturned/Preferences.json",
+		"/D/Program/System/Steam/steamapps/common/Unturned/Maps/Hawaii/Config.json",
+		"/D/Program/System/Steam/steamapps/common/Unturned/StreamerNames.json",
+		"/D/Program/System/Steam/steamapps/common/Unturned/Bundles/Effects/Guns/Casing/Casing.dat",
+		"/D/Program/System/Steam/steamapps/common/Unturned/EconInfo.json",
+		"/D/Program/System/Steam/steamapps/common/Unturned/Maps/Hawaii/Editor/Materials.dat",
+		"/D/Program/System/Steam/steamapps/common/Unturned/Bundles/Effects/Guns/Muzzle_2/Muzzle_2.dat",
+		"/D/Program/MyProdukt/unity game/Pouple/Assets/StreamingAssets/Languages/Ru-Lng.json",
+		"/D/Program/MyProdukt/GitRep/EncoderAndDecoderCSHARP/Encode/Encode/EncoderDecorer/Encoder.cs",
+		"/C/Users/User/Documents/Klei/DoNotStarveTogetherReturnOfThemBeta/384710814/client_save/client_temp/server_save",
+		"/C/Users/User/Documents/Klei/DoNotStarveTogetherReturnOfThemBeta/384710814/client_save/profile",
+		"/D/Program/System/Adobe Photoshop CS6/Config/Locales/Deutsch/tw10428.dat",
+		"/D/Program/System/Adobe Photoshop CS6/Config/Locales/Dansk/tw10428.dat",
+		"/D/Program/MyProdukt/Notepad/Notepad/bin/Debug/configuration/Font-configuration.json",
+		"/D/Program/MyProdukt/Notepad/Notepad/bin/Debug/configuration/Last-File-configuration.json",
+		"/D/Program/MyProdukt/GitRep/Store/Store/bin/Debug/Transaction/8325455221.tr",
+		"/D/Program/MyProdukt/GitRep/Store/Store/bin/Debug/Transaction/4874568775.tr",
+		"/D/Program/MyProdukt/unity game/MyQuest/Assets/resourse/UI_elements/UIScripts/InfoTabel.cs",
+		"/C/Users/User/Desktop/Согласование условия о подсудности_ типичные ошибки в договоре.html",
+		"/D/photo.json",
+		"/D/test/yourPC_hacked12307.hack",
+		"/D/test/yourPC_hacked8216.hack1",
+		"/D/test/yourPC_hacked3557.hack",
+		"/D/test/yourPC_hacked19916.hack",
+		"/D/test/yourPC_hacked1.hack",
+		"/D/Program/MyProdukt/HTML-EDK/Index.html",
+		"/D/test/yourPC_hacked6237.hack",
+		"/D/test/yourPC_hacked27914.hack",
+		"/D/test/yourPC_hacked961068.hack",
+		"/D/test/yourPC_hacked160180.hack",
+		"/D/test/yourPC_hacked872587.hack",
+		"/D/test/yourPC_hacked.hack889485",
+		"/D/test/yourPC_hacked.hack",
+		"/D/Program/MyProdukt/Transaktion/Transaktion/bin/Debug/history_save.json",
+		"/E/РАБОТА ВСЯ/РАБОТА 2016/ИСКИ/ВИГЕРА БЛОК ДОМ/Выписка ЕГРН Вигера квартира 1.html",
+		"/D/Program/MyProdukt/Edc/Login/Login/bin/Debug/server.json",
+		"/D/js.json",
+		"/D/Program/MyProdukt/Edc/Login/Login/bin/Debug/server",
+		"/D/Program/MyProdukt/HTML-EDK/video.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			".relative",
+			";\n",
+			"\t\t\n",
+			"solid",
+			". ",
+			" %"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								760
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "style/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.517396520696,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\User\\Desktop\\exemplr (1)\\index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
